@@ -4,7 +4,7 @@ public class Clase1 {
 	
 public static void main(String args[]) {
 		
-		System.out.println("Clase 2");
+		System.out.println("Clase 1 del repositorio 1");
 	}
 
 }
